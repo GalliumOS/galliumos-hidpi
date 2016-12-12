@@ -9,6 +9,6 @@ Package: galliumos-hidpi
 Architecture: all
 Priority: required
 Depends: galliumos-base
-Replaces: galliumos-default-settings
+Replaces: galliumos-default-settings, galliumos-samus
 Description: GalliumOS customizations for HiDPI displays
  This package contains HiDPI config files for GalliumOS
