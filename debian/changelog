@@ -1,0 +1,6 @@
+galliumos-hidpi (1.0) xenon; urgency=medium
+
+  * HiDPI desktop config
+    - repackaged from galliumos-samus, which now requires this pkg
+
+ -- reynhout <reynhout@galliumos.org>  Mon, 12 Dec 2016 00:21:06 +0000
